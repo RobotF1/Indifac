@@ -1,0 +1,49 @@
+.navbar{
+    box-shadow: 2px 2px 2px #000;
+    opacity: .9;
+}
+
+.nombre:hover{
+    text-shadow: 3px 3px #0F6292;
+}
+
+.navbar .nav-item .nav-link{
+    color: #fff;
+}
+
+.main-header{
+    position: relative;
+    background: url(../img/cnc.jpg);
+    background-size: cover;
+    min-height: 650px;
+}
+
+.background-overlay{
+    position: absolute;
+    background: rgba(34, 112, 147,.7);
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.form-control, .btn{
+    border-radius: 0;
+}
+
+.card .card-body img{
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
